@@ -54,8 +54,7 @@ frige.switchOn('off');
 console.log('Общее потребление: '+ totalElectroCons + ' W/h. ');
 
 
-export { 
-    Kitchendevs as Kitchendevs,
+export {    
     totalElectroCons as totalElectroCons,          
          whashingMachine as whashingMachine,
          grillMachine as grillMachine,
